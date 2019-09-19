@@ -2,7 +2,7 @@
 
 1. Create a free github account if you don't already have one.
 2. Fork this repository.
-3. Create a markdown (.md) file that will contain the following:
+3. Create a markdown (.md) named "solution_<your name>.md" file that will contain the following:
 4. The title of the following papers pivotal to our knowledge:
   - MCC Van Dyke et al., 2019
   - JT Harvey, Applied Ergonomics, 2002
