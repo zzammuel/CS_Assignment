@@ -8,7 +8,6 @@ DW Ziegler et al., 2005
  - Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
 
 ## Plot corresponding to the dataset: "istherecorrelation.csv"
- [Image][1]
- [1]:https://github.com/zzammuel/CS_Assignment/blob/master/image1.png
+ ![Image](https://github.com/zzammuel/CS_Assignment/blob/master/image1.png)
 
 at first sight, both statistics do not seem to be correlated. However, calculating the Pearson correlation coefficient using the scipy.stats module, we find an r-value of 0.818, which inidicates there is some form of correlation after all.
